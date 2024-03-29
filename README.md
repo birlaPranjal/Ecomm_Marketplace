@@ -18,11 +18,7 @@ To get started with the project, follow these steps:
     npm run dev
     ```
 
-## Features
 
-- Feature 1: [Description of feature 1]
-- Feature 2: [Description of feature 2]
-- ...
 
 ## Contributing
 
